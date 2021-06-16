@@ -112,7 +112,7 @@ void adicionar_aluno()
     if (verifica_matricula(matricula) == 1)
     {
         cout << "*******************************"<< endl;
-        cout << "******Matricula ja existe******"<< endl;
+        cout << "****** Matricula ja existe ******"<< endl;
         cout << "*******************************"<< endl;
 
     }
